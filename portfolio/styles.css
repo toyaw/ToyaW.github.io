@@ -29,3 +29,27 @@ header {
     font-size: 16px;
     
 }
+/* Boxes */
+#boxes{
+    margin-top: 20px;
+}
+
+#boxes .box{
+    float:left;
+    width: 30%;
+    padding: 10px;  
+}
+
+#boxes .box img{
+    width: 90px
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff
+
+}
+
+
+
